@@ -1,0 +1,39 @@
+[
+    {"name": "Food",
+      "image": "/images/korea1.jpg"
+ 
+    },
+    {"name": "Clothes",
+      "image": "/images/korea2.jpg"
+    },
+    {"name": "Idol",
+      "image": "/images/korea3.jpg"
+    },
+    {"name": "MakeUp",
+      "image": "/images/korea4.jpg"
+    },
+    {"name": "Food",
+      "image": "/images/japan1.jpg"
+    },
+    {"name": "Clothes",
+      "image": "/images/japan2.jpg"
+    },
+    {"name": "Animate",
+      "image": "/images/japan3.jpg"
+    },
+    {"name": "MakeUp",
+      "image": "/images/japan4.jpg"
+    },
+    {"name": "Food",
+      "image": "/images/us1.jpg"
+    },
+    {"name": "Clothes",
+      "image": "/images/us2.jpg"
+    },
+    {"name": "Celeb",
+      "image": "/images/us3.jpg"
+    },
+    {"name": "MakeUp",
+      "image": "/images/us4.jpg"
+    }
+  ]
